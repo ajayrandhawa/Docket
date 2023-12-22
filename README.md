@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Minimal React Native Todo App</h1>
-  <p>React and Redux</p>
+  <p>React Native Project</p>
 </div>
 
 
