@@ -8,7 +8,7 @@ const Header = () => {
     <View style={styles.header}>
       <View style={styles.logoContainer}>
         <Image source={require('../assets/logo.png')} style={styles.logo} resizeMode="contain" />
-        <Text style={styles.logoText}>Docket</Text>
+        <Text style={styles.logoText}>Tasks</Text>
       </View>
       <View style={styles.rightSide}>
         <TouchableOpacity style={styles.iconButton}>
