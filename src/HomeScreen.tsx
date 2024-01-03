@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
   },
   buttonIcon: {
     width: 48,
-    height: 48,
+    height: 45,
   },
 });
 
